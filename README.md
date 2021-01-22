@@ -1,2 +1,3 @@
 # Calculadora-React-Native
 uma calculadora feita em React Native
+Apesar de parecer simples, envolveu MUITA LÓGICA de programação, e pra mim que sou iniciante em React-native, foi um desafio...
